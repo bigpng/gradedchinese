@@ -21,6 +21,7 @@ title: HSK3 Xianxia Project
   /* 3. Force the section to stop acting like a sidebar-adjacent column */
   section {
     width: 100% !important;
+    max-width: 900px !important;
     float: none !important;
     margin: 0 !important;
   }
