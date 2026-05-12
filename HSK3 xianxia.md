@@ -1,3 +1,8 @@
+---
+layout: default
+title: HSK3 Xianxia Project
+---
+
 # 目录 (Table of Contents)
 
 1. [第一章 白猫与兄弟](#第一章-白猫与兄弟)
