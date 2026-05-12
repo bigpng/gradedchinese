@@ -4,14 +4,36 @@ title: HSK3 Xianxia Project
 ---
 
 <style>
-  /* Hides the entire sidebar/header area in Midnight */
+  /* 1. Hide the sidebar and header elements */
   #header, .inner header, .downloads, .buttons, .title, .credits {
     display: none !important;
   }
-  /* Moves the main content up so there isn't a giant gap */
+
+  /* 2. Reset the wrapper to use the full available width */
+  .wrapper {
+    max-width: 90%; /* Adjust to 100% for edge-to-edge, or 90% for a slight margin */
+    margin: 0 auto !important; /* Centers the widened block */
+    width: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  /* 3. Force the section to stop acting like a sidebar-adjacent column */
+  section {
+    width: 100% !important;
+    float: none !important;
+    margin: 0 !important;
+  }
+
+  /* 4. Remove top gaps */
   #content_wrapper, .inner, .wrapper {
     padding-top: 10px !important;
     margin-top: 0 !important;
+  }
+
+  /* 5. Clean up body background/scrolling */
+  body {
+    background-position: top left;
   }
 </style>
 
