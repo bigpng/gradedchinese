@@ -40,11 +40,12 @@ title: HSK3 Xianxia Project
 
 # 目录 (Table of Contents)
 
-1. [第一章 白猫与兄弟](#第一章-白猫与兄弟)
+1. [第一章: 白猫与兄弟](#第一章:-白猫与兄弟)
+2. [第二章: 刀与剑](#第二章:-刀与剑)
 
 ---
 
-# 第一章 白猫与兄弟
+# 第一章: 白猫与兄弟
 
 山很高。树很绿。**林风**和**沈星**住在山上。他们是好朋友，也是兄弟。他们每天一起练习，一起吃饭，一起看星星。
 
@@ -103,3 +104,27 @@ title: HSK3 Xianxia Project
 小白走在前面，尾巴轻轻摇。它不是普通的猫。她是天上的好女人，变成猫的样子，来到世界上。但是，现在只有风知道这个秘密。
 
 <small>Xiao Bai walked in front, its tail swaying gently. It was not an ordinary cat. She was a good woman from heaven, taking the form of a cat and coming into the world. But for now, only the wind knows this secret.</small>
+
+---
+
+# 第二章: 刀与剑
+
+他们走到东边的村子。地上有很多脚印。房子前面有火把。黑风门的三个人站在那里。他们穿着黑衣服，拿着长刀。脸很冷，眼睛很凶。村民躲在后面，不敢说话。
+
+<small>They walked to the village in the east. There were many footprints on the ground. There were torches in front of the houses. Three people from the Black Wind Sect stood there. They wore black clothes and held long blades. Their faces were cold, and their eyes were fierce. The villagers hid behind them and did not dare to speak.</small>
+
+林风跑过去，大声喊：“停下！”坏人转头看他。一个人笑了一下，举起刀冲过来。林风马上举起铁刀，挡住那把刀。刀碰到一起，发出很大的声音。沈星从旁边跳出来，踢中另一个人的腿。那个人倒在地上，大声叫。
+
+<small>Lin Feng ran over and shouted loudly, “Stop!” The bad men turned to look at him. One person laughed a little, raised his blade, and charged over. Lin Feng immediately raised his iron blade and blocked the attack. The blades struck together and made a very loud sound. Shen Xing jumped out from the side and kicked another man’s leg. That person fell to the ground and cried out loudly.</small>
+
+第三个坏人最强。他拿着黑色的剑，剑上有奇怪的光。他看着沈星，说：“你们打不过我们。”沈星站直身体，看着他的眼睛，慢慢说：“苦海无边，回头是岸。”坏人听了，脸色变了。他生气地挥剑，直接向沈星砍去。
+
+<small>The third bad man was the strongest. He held a black sword, and there was a strange light on the sword. He looked at Shen Xing and said, “You cannot defeat us.” Shen Xing stood straight, looked into his eyes, and slowly said, “The sea of suffering has no end; turn back and reach the shore.” After hearing this, the bad man’s expression changed. Angry, he swung his sword and slashed directly toward Shen Xing.</small>
+
+沈星侧身躲开。小白突然跳到剑上，用爪子拍了一下。黑剑掉在地上。坏人吓了一跳。林风马上用肩膀撞倒他。沈星快步走过去，把刀放在坏人脖子旁边。三个人都输了。黑风门的人跑进树林，很快不见。
+
+<small>Shen Xing turned sideways and dodged. Xiao Bai suddenly jumped onto the sword and struck it once with her paw. The black sword fell to the ground. The bad man was startled. Lin Feng immediately rammed him down with his shoulder. Shen Xing quickly walked over and placed his blade beside the bad man’s neck. All three men lost. The people from Black Wind Sect ran into the forest and soon disappeared.</small>
+
+打完了。村子安静下来。沈星收好刀，走到林风面前。他看到林风手臂上有一道小伤。沈星眉头皱起来，轻轻碰了一下，说：“你疼吗？”林风摇头，看着他的脸，心里很暖。他小声说：“没事。你在身边，我很放心。”小白坐在旁边，舔了舔爪子。她的眼睛闪了一下，像天上的月亮。没有人知道她刚才用了特别的力量。
+
+<small>After the fight ended, the village became quiet. Shen Xing put away his blade and walked in front of Lin Feng. He saw a small wound on Lin Feng’s arm. Shen Xing frowned and gently touched it, saying, “Does it hurt?” Lin Feng shook his head. Looking at his face, he felt very warm inside. He quietly said, “It’s fine. When you are by my side, I feel at ease.” Xiao Bai sat nearby and licked her paw. Her eyes flashed once, like the moon in the sky. Nobody knew that she had just used a special power.</small>
